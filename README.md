@@ -29,7 +29,7 @@ result <- scAnnotation(
 
 #### dataset: SingleR
 
-SingleR_REF: /public/home/wangycgroup/public/reference/SingleR_Ref/manual/Human
+SingleR_REF: https://drive.google.com/drive/folders/1E-al6H24sBmLjhuQFkui7SdwAe0fbSbM?usp=drive_link
 
 ```{r}
 ```{r}
@@ -138,9 +138,3 @@ DimPlot(
 ```
 
 ![](./figures/snRandomAnnot.png)
-
-#### marker: ScTypeDB
-
-```{r}
-
-```
