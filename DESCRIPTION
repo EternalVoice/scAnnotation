@@ -1,0 +1,16 @@
+Package: scAnnotation
+Type: Package
+Title: Single-cell cell type annotation tools
+Version: 1.0.0
+Date: 2023-10-13
+Author: tqfan
+Maintainer: tqfan <tongqiang.fan@m20genomics.com>
+Description: The scAnnotation is used for cell type annotation.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Imports: Seurat, SingleR, dplyr, plyr, scales
+Depends: R (>= 4.0.0)
+RoxygenNote: 7.2.1
+NeedsCompilation: no
+Packaged: 2023-10-13 08:13:23 UTC; Administrator
